@@ -7,6 +7,7 @@ Originally from Austin, TX, I'm currently a graduate student at the University o
 You can check out some of my projects here:
 - [Demographic Change in Chicago](https://github.com/dorottyaf/Superteam-Group-Project): A Python app that allows you to explore, analyze, and visualize both demographic and economic change in Chicago's neighborhoods.
 - [Sentiment Analysis Thesis](https://repositories.lib.utexas.edu/server/api/core/bitstreams/47b049e7-6c68-4871-9e6d-2abdff1c52b7/content): My honors undergraduate thesis written in R that applies sentiment analysis techniques to Democratic and Republican speeches to test for systematic differences by speaker gender
+- [Hate Crime Study (WIP)](https://github.com/enatt/static): A current data visualization project focused on studying the rise of hate crimes in recent years, built on Altair
 
 There are a number of additional project repos that are private for academic integrity reasons. I am happy to share code samples from the following when requested:
 - Decision Tree Model: Recursively built a decision tree class in Python and applied it to data on student academic performance
