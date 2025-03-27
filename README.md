@@ -15,7 +15,7 @@ There are a number of additional project repos that are private for academic int
 - Decision Tree Model: Recursively built a decision tree class in Python and applied it to data on student academic performance
 - Chicago Parks Webscraper and Search Engine: Built a webscraper in Python using the lxml library to scrape information on Chicago public parks and used sqlite3 to develop a search engine on the scraped/cleaned data
 - Hash Table and Markov Models for Speech Prediction: Built a hash table class with linear probing in Python and used it to represent a Markov Model in assessing the most likely author of various political speeches
-- REST Database: Set up endpoints for a database of Chicago resstaurants using Python, Flask, and SQLite3, allowing for data input, querying, and record matching
+- REST Database: Set up endpoints for a database of Chicago restaurants using Python, Flask, and SQLite3, allowing for data input, querying, and record matching
 
 ## Tools I work with 🖥️
 ![image](https://github.com/enatt/enatt/assets/85758441/1fc2a8fc-b40c-478f-a3d9-bea060f5532c)
